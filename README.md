@@ -12,7 +12,7 @@ Maven plugin required to build other libraries in the family.
 
 ## Minimal JRE emulation
 
-- [j2cl-uber(https://github.com/mP1/j2cl-uber) Include all the minimal bootclass, JRE and runtime libraries
+- [j2cl-uber](https://github.com/mP1/j2cl-uber) Include all the minimal bootclass, JRE and runtime libraries
 - [j2cl-uber-test](https://github.com/mP1/j2cl-uber-test) Includes junit test support
 
 ## JRE emulation
