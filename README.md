@@ -15,6 +15,8 @@ Maven plugin required to build other libraries in the family.
 - [j2cl-uber](https://github.com/mP1/j2cl-uber) Include all the minimal bootclass, JRE and runtime libraries
 - [j2cl-uber-test](https://github.com/mP1/j2cl-uber-test) Includes junit test support
 
+
+
 ## JRE emulation
 
 The following additions are available, for further details of support and unsupported APIs refer to each project.
@@ -36,4 +38,4 @@ The following additions are available, for further details of support and unsupp
 - [j2cl-java-util-currency-annotation-processor](https://github.com/mP1/j2cl-java-util-currency-annotation-processor)
 - [j2cl-java-util-Locale-annotation-processor](https://github.com/mP1/j2cl-java-util-Locale-annotation-processor)
 - [j2cl-java-util-TimeZone-annotation-processor](https://github.com/mP1/j2cl-java-util-TimeZone-annotation-processor)
-- [j2cl-java-locale](https://github.com/mP1/j2cl-locale)
+- [j2cl-locale](https://github.com/mP1/j2cl-locale)
