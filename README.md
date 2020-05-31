@@ -62,3 +62,5 @@ Use the following repo to grab the latest builds/snapshots.
   <url>https://maven-repo-254709.appspot.com</url>
 </repository>
 ```
+
+This simple maven repo is hosted on Google App Engine using Cerrato Renaud's [appengine-maven-repository](https://github.com/renaudcerrato/appengine-maven-repository), which is very easy and quick to setup and just works.
