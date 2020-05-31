@@ -39,3 +39,26 @@ The following additions are available, for further details of support and unsupp
 - [j2cl-java-util-Locale-annotation-processor](https://github.com/mP1/j2cl-java-util-Locale-annotation-processor)
 - [j2cl-java-util-TimeZone-annotation-processor](https://github.com/mP1/j2cl-java-util-TimeZone-annotation-processor)
 - [j2cl-locale](https://github.com/mP1/j2cl-locale)
+
+
+
+## Maven
+
+- There are no versions or releases only snapshots with the latest.
+- Nothing is pushed to maven-central
+- There are no sources.jar, java source is always included with the jar file containing the binaries.
+- All projects require JDK 9 to build and execute tests, other versions may work but some tests (such as those extracting locale data) will fail because they make assumptions to verify against specific JREs.
+- New JDK than 9 should work, but have not been tested.
+
+
+
+### Maven repository
+
+Use the following repo to grab the latest builds/snapshots.
+
+```xml
+<repository>
+  <id>github-mp1-appengine-repo</id>
+  <url>https://maven-repo-254709.appspot.com</url>
+</repository>
+```
