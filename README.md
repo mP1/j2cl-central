@@ -39,6 +39,7 @@ The following additions are available, for further details of support and unsupp
 - [j2cl-java-util-Locale-annotation-processor](https://github.com/mP1/j2cl-java-util-Locale-annotation-processor)
 - [j2cl-java-util-TimeZone-annotation-processor](https://github.com/mP1/j2cl-java-util-TimeZone-annotation-processor)
 - [j2cl-locale](https://github.com/mP1/j2cl-locale)
+- [walkingkooka-resource-annotation-processor](https://github.com/mP1/walkingkooka-resource-annotation-processor)
 
 
 
