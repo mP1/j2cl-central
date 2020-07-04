@@ -28,6 +28,7 @@ The following additions are available, for further details of support and unsupp
 - [j2cl-java-util-Calendar](https://github.com/mP1/j2cl-java-util-Calendar)
 - [j2cl-java-util-Currency](https://github.com/mP1/j2cl-java-util-Currency)
 - [j2cl-java-util-Locale](https://github.com/mP1/j2cl-java-util-Locale)
+- [j2cl-java-util-StringTokenizer](https://github.com/mP1/j2cl-java-util-StringTokenizer)
 - [j2cl-java-util-TimeZone](https://github.com/mP1/j2cl-java-util-TimeZone)
 
 
