@@ -22,6 +22,7 @@ Maven plugin required to build other libraries in the family.
 The following additions are available, for further details of support and unsupported APIs refer to each project.
 
 - [j2cl-java-io](https://github.com/mP1/j2cl-java-io)
+- [j2cl-java-net](https://github.com/mP1/j2cl-java-net)
 - [j2cl-java-text](https://github.com/mP1/j2cl-java-text)
 - [j2cl-java-time](https://github.com/mP1/j2cl-java-time)
 - [j2cl-java-util-Base64](https://github.com/mP1/j2cl-java-util-Base64)
